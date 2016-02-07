@@ -7,14 +7,15 @@
 
 # Site settings
 title: Steve Ortiz
-email: steve@ortizaggies.com
 description: >
   Professional online portfolio for Steve Ortiz
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://steveortiz.github.io" # the base hostname & protocol for your site
-twitter_username: stevecancode
+
+linkedin_username: stevecancode
 github_username:  steveortiz
+twitter_username: stevecancode
+email: steve@ortizaggies.com
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
