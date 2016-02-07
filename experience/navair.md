@@ -3,7 +3,7 @@ layout: default
 title: NAVAIR
 quote: "I cannot think of a prouder statement when asked what our occupation may be than to say 'I serve the United States of America.'"
 cite: "President John F. Kennedy speaking at <strong>China Lake</strong>"
-permalink: /navair/
+permalink: /experience/navair/
 ---
 
 <p class="lead" markdown="1">For the past nine years, I have proudly supported our country's warfighters as a <abbr title="Department of Defense">DoD</abbr> civilian at the the Naval Air Warfare Centers.  The first five years were at China Lake in the [Weapons Division][nawcwd] and the next four were at Pax River in the [Aircraft Division.][nawcad]  During this time, I supported several programs, described below in reverse chronological order.</p>

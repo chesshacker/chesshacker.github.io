@@ -22,10 +22,10 @@ For 13 years, I have studied, practiced and advocated Agile programming practice
 
 I hope you find this portfolio of my work to be helpful as you consider my application.  This page serves as an introduction and cover letter.  You can find more information on the other pages of this website by using the navigation bar at the top of the page or by clicking these links:
 
-* [Sample Work](/sample/) introduces the Chess Toolkit, a software library for creating chess programs
-* [Chess Demo](/demo/) shows the Chess Toolkit in action as part of a Ruby on Rails web application
-* [NAVAIR](/navair/) describes the work I have done at NAVAIR over the past nine years
-* [Business Solutions](/business/) describes the work I did for Quetzal Consulting and Texas A&M University
+* [Sample Work](/sample-work/chess-toolkit/) introduces the Chess Toolkit, a software library for creating chess programs
+* [Chess Demo](/sample-work/chess-openings/) shows the Chess Toolkit in action as part of a Ruby on Rails web application
+* [NAVAIR](/experience/navair/) describes the work I have done at NAVAIR over the past nine years
+* [Business Solutions](/experience/business/) describes the work I did for Quetzal Consulting and Texas A&M University
 
 I am really excited about the possibility of working at Rackspace and living in San Antonio.  I have been following the OpenStack project and even dedicated a home computer to learning OpenStack.  I realize my career is not typical of a Racker, but there is power in diversity and I believe my unique experiences will greatly benefit your team.  I look forward for a chance to meet with you to discuss your current needs and how I can help.
 
