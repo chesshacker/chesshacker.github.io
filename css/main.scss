@@ -44,6 +44,12 @@ div.inline {
     }
 }
 
+@media print {
+  a[href]:after {
+    content: none;
+  }
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "syntax-highlighting"
