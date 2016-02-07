@@ -1,20 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+{% include head.html %}
+<body>
 
-  {% include head.html %}
+{% include navbar.html %}
 
-  <body>
+<div class="container">
+{% if page.title %}<h2 class="page-header">{{ page.title | escape }}</h2>{% endif %}
+{% if page.quote %}<blockquote>{{ page.quote}}</blockquote>{% endif %}
+{% if page.cite %}<cite>{{ page.cite }}</cite>{% endif %}
 
-    {% include header.html %}
+{{ content }}
+</div>
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+{% include footer.html %}
 
-    {% include footer.html %}
-
-  </body>
-
+</body>
 </html>
