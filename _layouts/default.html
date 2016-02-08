@@ -6,7 +6,7 @@
 {% include navbar.html %}
 
 <div class="container">
-{% if page.title %}<h2 class="page-header">{{ page.title | escape }}</h2>{% endif %}
+<h2 class="page-header">{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</h2>
 {% if page.quote %}<blockquote>{{ page.quote}}</blockquote>{% endif %}
 {% if page.cite %}<cite>{{ page.cite }}</cite>{% endif %}
 
