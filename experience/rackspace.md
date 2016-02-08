@@ -11,7 +11,7 @@ permalink: /experience/rackspace/
 primarily to move closer to family. What I didn't realize at the time was my
 family was growing... I was joining the Rackspace family!</p>
 
-Rackspace has these amazing [core values][core-values] that make work fantastic!
+Rackspace has these amazing [core values][core-values] that make work fantastic.
 At Rackspace, employees are known as *Rackers,* and treating Rackers like
 *friends and family* is one my favorite core values. My teammates and the other
 Rackers I have worked with really do live this value well, and it makes going to
@@ -27,7 +27,7 @@ own, they use more of our products, which brings in revenue.
 ### The Simpler, The Better
 
 When I started, I was quickly introduced to a wide range of platforms we
-supported, and learned an even wider range of technologies to support them all!
+supported, and learned an even wider range of technologies to support them all.
 Our [support hub][support] used [MoonScript][moonscript], [Lua][lua],
 [Lapis][lapis] and [PostgreSQL][postgres]. Our *Knowledge Center* used
 [Drupal][drupal], [PHP][php] and [MySQL][mysql]. Our *Launch Guides* used
@@ -42,21 +42,21 @@ supported several internal tools. A mapping tool used [Ruby][ruby] on
 [CSS][css] and [JavaScript][javascript] and [jQuery.][jquery]
 
 As you can imagine, that's a lot for anyone to manage, and I didn't become an
-expert in every one of these platforms, but I did some work in all! One of my
+expert in every one of these platforms, but I did some work in all. One of my
 goals was to unify and simplify our systems, reducing the number of technologies
 used, so our team could work more efficiently.
 
 Over the past two years, I have been successful at shedding the crazier
 technologies and reducing the number of platforms we support. We passed the
-internal tools to another team, since that was outside our team's mission. And
-we migrated almost all the other web properties to a single documentation
+internal tools to another team, since that was outside our team's mission. We
+also migrated almost all the other web properties to a single documentation
 platform, known as [deconst,][deconst] which was developed largely by another
 team at Rackspace. By working with this other team, it freed up my team to focus
 on the aspects most relevant to our website, content and writers.
 
 You can see the result of this work online. API docs was the first site we began
 migrating. You can see *most* of the books are now in [Developer
-Docs.][dev-docs]. The last few books will be migrated soon! [Support
+Docs.][dev-docs]. The last few books will be migrated soon. [Support
 hub][support] was next, and lastly, the [How-To][how-to] Site replaced our
 Knowledge Center.
 
@@ -79,18 +79,18 @@ easy-to-use place. When customers click the *Support* link from within the cloud
 control panel, a drawer slides out from the side of the page giving them options
 to select a from a context-sensitive list of articles, search all self-service
 content, check system status, start a chat, visit the online community, create a
-ticket, or call a Racker. Previous version of the Support Drawer allowed
+ticket, or call a Racker. A previous version of the Support Drawer allowed
 customers to post their question directly in the community forum, and we had
-[SAML][saml] integration with the Community to perform authentication. And
-another previous version of the drawer allowed users to click a button and have
-a Racker quickly call them! We also helped customers to upgrade their Support
-Service Level by adding a banner ad of sorts within the drawer to learn more
-about support service levels.
+[SAML][saml] integration with the Community to perform authentication. Another
+previous version of the drawer allowed users to click a button and have a Racker
+quickly call them. We also helped customers to upgrade their Support Service
+Level by adding a banner ad of sorts within the drawer to learn more about
+support service levels.
 
 Customers and support Rackers alike have greatly benefited from this new
 capability within the cloud control panel. Not only that, but the industry took
-notice of it! On February 27, 2015, my team was awarded the [Gold Stevie
-Award][stevie] in the IVR or Web Service Solution category!
+notice of it. On February 27, 2015, my team was awarded the [Gold Stevie
+Award][stevie] in the IVR or Web Service Solution category.
 
 ### Intern Program Management
 
@@ -103,7 +103,7 @@ students.
 
 During the summer, I coordinate activities, teach and mentor the interns. During
 the rest of the year, I help recruiting by speaking at events like Texas A&M's
-Engineering Industry Seminar, or by talking to students at career fairs. And of
+Engineering Industry Seminar, or by talking to students at career fairs. Of
 course there is a lot of planning and interviews too.
 
 ### Outreach
@@ -111,7 +111,7 @@ course there is a lot of planning and interviews too.
 In addition to helping interns, I enjoy teaching and mentoring other students
 and professionals. I have helped mentor at several hackathons. In August, I led
 a workshop at the [SoHacks Hackathon][sohacks] on building a website with [GitHub
-Pages][pages] and I won an award for being one of the top mentors!
+Pages][pages] and I won an award for being one of the top mentors.
 
 Within Rackspace, I have led several [Coding Dojos][dojo] using both Python and
 [Golang][go]. Beyond Rackspace, I have spoken several times at the Alamo Python
@@ -120,11 +120,11 @@ Learners Meetup, now [Alamo Code Learners][alamo]. My talk in July 2015 was on
 
 Lastly, I do quite a bit of non-coding outreach through [Castle Chess][castle].
 Rackspace really supports community outreach. One way they do that is by
-providing 24 hours of volunteer time, which I have completely for the past two
-years, teaching an after-school chess program at Encino Park Elementary School.
-I also teach chess two other times each week at Encino Branch Library and Parman
-Library. This outreach is strictly volunteer, and I enjoy seeing the kids learn
-important life skills from this fun and mentally-stimulating game.
+providing 24 hours of volunteer time, which I have completely used for the past
+two years, teaching an after-school chess program at Encino Park Elementary
+School. I also teach chess two other times each week at Encino Branch Library
+and Parman Library. This outreach is strictly volunteer, and I enjoy seeing the
+kids learn important life skills from this fun and mentally-stimulating game.
 
 [core-values]: https://www.youtube.com/watch?v=-_YjxSe1T1c
 [support]:     https://support.rackspace.com

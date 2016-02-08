@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Steve Ortiz
 quote: "Success is not the key to happiness. Happiness is the key to success. If
 you love what you are doing, you will be successful."
 cite: "Albert Schweitzer"
@@ -12,8 +13,8 @@ I have over 17 years of experience helping people solve problems through
 software. I enjoy working with teams to figure out the bigger picture and then
 coming up with useful technical solutions. I love that there is a new challenge
 every day and there is always more to learn. When a new idea strikes early in
-the morning, I can hardly wait to get into the office and explore it. And by the
-end of most days, I return home energized by my teammates and our achievements.
+the morning, I can hardly wait to get into the office and explore it. By the end
+of most days, I return home energized by my teammates and our achievements.
 
 My breadth of experience is now my greatest strength. I started my journey
 developing database-intensive business applications and websites. Then I spent a
@@ -29,10 +30,11 @@ set. Also, I have had the benefit and pleasure of working with and learning from
 so many incredibly talented developers, leaders and world-class experts along
 the way.
 
-I am currently interested in new opportunities make a meaningful difference in an
-expanding business. If you are looking for an experienced software developer to
-lead a team or to solve tough problems, please contact me through [email][email]
-or [LinkedIn][linkedin]. I would love to talk about possibilities.
+I am currently interested in new opportunities make a meaningful difference in
+an expanding business. If you are looking for an experienced software developer
+to lead a team or to solve tough problems, please contact me through
+[email][email] or [LinkedIn][linkedin]. I would love to talk about
+possibilities.
 
 I hope you find this website to be helpful. This page serves as an introduction.
 You can discover more about me on the other pages of this website by using the
