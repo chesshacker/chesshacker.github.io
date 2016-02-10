@@ -1,11 +1,7 @@
 
 // prevent fixed navbar from overlapping content
 body {
-  padding-top: 70px;
-}
-
-p.lead {
-  margin-top: 1em;
+  padding-top: 50px;
 }
 
 div.bump-down {
@@ -38,4 +34,13 @@ i {
 
 .nav li a {
   color: $brand-primary;
+}
+
+.jumbotron {
+    background-image: url(http://5d6e751938179cb4c676-7e78ad4f897ae0179c6a991c235afb37.r3.cf5.rackcdn.com/images/aggie-interns-2015.jpg);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-shadow: $brand-primary 0.3em 0.3em 0.3em;
 }

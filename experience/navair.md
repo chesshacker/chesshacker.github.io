@@ -1,16 +1,16 @@
 ---
 layout: default
 title: NAVAIR
+hero: "For ten years, I proudly supported our country's warfighters as a civil
+servant at the the Naval Air Warfare Centers."
 quote: "I cannot think of a prouder statement when asked what our occupation may
 be than to say 'I serve the United States of America.'"
 cite: "President John F. Kennedy speaking at <strong>China Lake</strong>"
 permalink: /experience/navair/
 ---
 
-<p class="lead" markdown="1">For ten years, I proudly supported our country's
-warfighters as a civil servant at the the Naval Air Warfare Centers.  The first
-five years were at China Lake in the [Weapons Division][nawcwd] and the next
-five were at Pax River in the [Aircraft Division.][nawcad]</p>
+The first five years were at China Lake in the [Weapons Division][nawcwd] and
+the next five were at Pax River in the [Aircraft Division.][nawcad]
 
 ### [MQ-4C Triton][triton]
 

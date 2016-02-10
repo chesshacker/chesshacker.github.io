@@ -1,15 +1,14 @@
 ---
 layout: default
 title: Rackspace
+hero: "When I left NAVAIR to work for Rackspace, it was primarily to move closer
+to family. What I didn't realize at the time was my family was growing... I was
+joining the Rackspace family!"
 quote: "What we all want is to be valued members of a winning team on an
 inspiring mission."
 cite: "Graham Weston, Co-Founder and Chairman of Rackspace"
 permalink: /experience/rackspace/
 ---
-
-<p class="lead" markdown="1">When I left NAVAIR to work for Rackspace, it was
-primarily to move closer to family. What I didn't realize at the time was my
-family was growing... I was joining the Rackspace family!</p>
 
 Rackspace has these amazing [core values][core-values] that make work fantastic.
 At Rackspace, employees are known as *Rackers,* and treating Rackers like

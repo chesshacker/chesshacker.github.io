@@ -1,15 +1,14 @@
 ---
 layout: default
 title: Quetzal Consulting
+hero: "After completing my bachelor's degree in Mechanical Engineering, I began
+working for Quetzal Consulting as programmer, enjoying the peak of the dot-com
+boom. This was an exciting time!"
 quote: "Neo, sooner or later you're going to realize just as I did that there's
 a difference between knowing the path and walking the path."
 cite: "Morpheus in <strong>The Matrix (1999)</strong>"
 permalink: /experience/quetzal/
 ---
-
-<p class="lead" markdown="1">After completing my bachelor's degree in Mechanical
-Engineering, I began working for Quetzal Consulting as programmer, enjoying the
-peak of the dot-com boom. This was an exciting time!</p>
 
 I worked on many projects, and I loved to help customers find new ways of
 solving their business problems.  I started as a FileMaker developer, but I

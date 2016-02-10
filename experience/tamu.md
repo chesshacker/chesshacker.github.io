@@ -1,13 +1,12 @@
 ---
 layout: default
 title: Texas A&M University
+hero: "My professional software development experience began my sophomore year
+at Texas A&M University."
 quote: "There&rsquo;s a spirit can ne&rsquo;er be told..."
 cite: "The Spirit of Aggieland"
 permalink: /experience/tamu/
 ---
-
-<p class="lead" markdown="1">My professional software development experience
-began my sophomore year at Texas A&M University.</p>
 
 I was a sophomore, studying to become a Mechanical Engineer, and the thought of
 developing software professionally had never crossed my mind when I found the

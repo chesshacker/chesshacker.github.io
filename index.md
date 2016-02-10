@@ -1,12 +1,10 @@
 ---
 layout: default
+hero: "I love helping people solve challenging problems in innovative ways."
 quote: "Success is not the key to happiness. Happiness is the key to success. If
 you love what you are doing, you will be successful."
 cite: "Albert Schweitzer"
 ---
-
-<p class="lead" markdown="1">I love helping people solve challenging problems in
-innovative ways.</p>
 
 I have over 17 years of experience helping people solve problems through
 software. I enjoy working with teams to figure out the bigger picture and then
@@ -32,8 +30,7 @@ leaders and world-class experts along the way.
 I am currently interested in new opportunities to make a meaningful difference
 in an expanding business. If you are looking for an experienced software
 developer to lead a team or to solve tough problems, please contact me through
-[email][email] or [LinkedIn][linkedin]. I would love to talk about
-possibilities.
+[email][email] or [LinkedIn][linkedin]. I am eager to talk about possibilities.
 
 I hope you find this website to be helpful. This page is only the beginning.
 There is more information about my work at [Rackspace][rackspace],

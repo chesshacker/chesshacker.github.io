@@ -1,15 +1,16 @@
 ---
 layout: default
 title: Chess Toolkit
-quote: "It's classified.  I could tell you, but then I'd have to kill you."
-cite: "Maverick in <strong>Top Gun (1986)</strong>"
+hero: "One of my favorite hobbies is chess, so naturally I was drawn to writing
+chess software."
+quote: "All Chess players should have a hobby."
+cite: "Savielly Tartakower"
 permalink: /sample-work/chess-toolkit/
 ---
 
-<p class="lead" markdown="1">One of my favorite hobbies is chess, so naturally I
-was drawn to writing chess software.  In 2013, I decided to package some of my
-work as a reusable library, which I dubbed the [Chess Toolkit][toolkit] and
-released under the Apache License.  This is a good example of my work.</p>
+In 2013, I decided to package some of my work as a reusable library, which I
+dubbed the [Chess Toolkit][toolkit] and released under the Apache License.  This
+is a good example of my work.
 
 The Chess Toolkit is about 4,000 source lines of code for the library, 4,000
 lines of tests, and 1,000 lines of examples.  It also includes a detailed
