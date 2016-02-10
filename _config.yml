@@ -19,6 +19,7 @@ email: steve@ortizaggies.com
 
 # Build settings
 markdown: kramdown
-
 gems:
   - jekyll-sitemap
+sass:
+    style: :compressed

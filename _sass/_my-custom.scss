@@ -1,0 +1,41 @@
+
+// prevent fixed navbar from overlapping content
+body {
+  padding-top: 70px;
+}
+
+p.lead {
+  margin-top: 1em;
+}
+
+div.bump-down {
+  margin-top: 2em;
+}
+
+div.stacks {
+  margin-bottom: 1em;
+}
+
+iframe {
+  border: 0px;
+}
+
+.navbar {
+  border-radius: 0;
+}
+
+footer.navbar {
+  margin-top: 2em;
+}
+
+div.inline {
+  display: inline-block;
+}
+
+i {
+  color: $brand-primary;
+}
+
+.nav li a {
+  color: $brand-primary;
+}

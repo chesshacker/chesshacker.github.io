@@ -2,62 +2,12 @@
 ---
 @charset "utf-8";
 
-p.lead {
-  margin-top: 1em;
-}
+// cusomize an bootstrap variables here...
 
-div.bump-down {
-  margin-top: 2em;
-}
-
-div.stacks {
-  margin-bottom: 1em;
-}
-
-iframe {
-  border: 0px;
-}
-
-.navbar {
-  border-radius: 0;
-}
-
-footer.navbar {
-  margin-top: 2em;
-}
-
-div.inline {
-  display: inline-block;
-}
-
-.icon {
-  > svg {
-    display: inline-block;
-    width: 16px;
-    height: 16px;
-    vertical-align: middle;
-    path {
-      fill: #828282;
-    }
-  }
-}
-
-.icon--linkedin {
-  > svg {
-    path {
-      fill: #fff;
-    }
-  }
-}
-
-
-@media print {
-  a[href]:after {
-    content: none;
-  }
-}
-
-// Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "syntax-highlighting"
+  "variables",
+  "bootstrap",
+  "bootswatch",
+  "syntax-highlighting",
+  "my-custom"
 ;
