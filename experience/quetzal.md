@@ -9,7 +9,7 @@ permalink: /experience/quetzal/
 
 <p class="lead" markdown="1">After completing my bachelor's degree in Mechanical
 Engineering, I began working for Quetzal Consulting as programmer, enjoying the
-peak of the dot-com boom. This was a great time!</p>
+peak of the dot-com boom. This was an exciting time!</p>
 
 I worked on many projects, and I loved to help customers find new ways of
 solving their business problems.  I started as a FileMaker developer, but I

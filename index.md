@@ -5,8 +5,8 @@ you love what you are doing, you will be successful."
 cite: "Albert Schweitzer"
 ---
 
-<p class="lead" markdown="1">Personally, I love helping people solve challenging
-problems in innovative ways.</p>
+<p class="lead" markdown="1">I love helping people solve challenging problems in
+innovative ways.</p>
 
 I have over 17 years of experience helping people solve problems through
 software. I enjoy working with teams to figure out the bigger picture and then
@@ -21,25 +21,28 @@ decade working with real-time, safety-critical software in autonomous trucks,
 missiles and planes. Two years ago, I returned to the private sector and to my
 roots, developing web applications. During my career, I have worked on
 everything from short one-person projects to massive multi-billion dollar
-programs. I have worked as an individual software developer, team leader,
+programs. My roles varied included individual software developer, team leader,
 systems engineer and subject matter expert responsible for the entire software
-development process. I have worked with a vast number of old and new
-technologies along the way, each one presenting opportunities to expand my skill
-set. Also, I have had the benefit and pleasure of working with and learning from
-so many incredibly talented developers, leaders and world-class experts along
-the way.
+development process. Technologies have ranged from old VAX systems running
+Fortran to Docker containers running microservices, each one presenting
+opportunities to expand my skill set. I have also had the benefit and pleasure
+of working with and learning from so many incredibly talented developers,
+leaders and world-class experts along the way.
 
-I am currently interested in new opportunities make a meaningful difference in
-an expanding business. If you are looking for an experienced software developer
-to lead a team or to solve tough problems, please contact me through
+I am currently interested in new opportunities to make a meaningful difference
+in an expanding business. If you are looking for an experienced software
+developer to lead a team or to solve tough problems, please contact me through
 [email][email] or [LinkedIn][linkedin]. I would love to talk about
 possibilities.
 
-I hope you find this website to be helpful. This page serves as an introduction.
-You can discover more about me on the other pages of this website by using the
-navigation bar at the top of the page to explore a small selection of sample
-work and more details on my work experience. There are also links at the bottom
-of the page to my LinkedIn, GitHub and Twitter accounts.
+I hope you find this website to be helpful. This page is only the beginning.
+There is more information about my work at [Rackspace][rackspace],
+[NAVAIR][navair] and beyond. You may also find some of my sample work like the
+[Chess Opening Explorer][chess] to be interesting.
 
-[linkedin]: https://www.linkedin.com/in/{{site.linkedin_username}}
-[email]:    mailto:{{site.email}}
+
+[linkedin]:   https://www.linkedin.com/in/{{site.linkedin_username}}
+[email]:      mailto:{{site.email}}
+[rackspace]:  /experience/rackspace/
+[navair]:     /experience/navair/
+[chess]:      /sample-work/chess-openings/
