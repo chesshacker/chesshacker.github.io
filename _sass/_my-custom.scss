@@ -44,3 +44,21 @@ i {
     color: white;
     text-shadow: $brand-primary 0.3em 0.3em 0.3em;
 }
+
+.container {
+  h3 {
+    &:before {
+      content: "+ ";
+      color: $link-hover-color;
+    }
+    &:hover{
+      cursor: pointer;
+      color: $link-hover-color;
+    }
+    &.active {
+      &:before {
+        content: "\2013\0020 ";
+      }
+    }
+  }
+}
