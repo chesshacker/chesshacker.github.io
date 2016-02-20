@@ -27,7 +27,7 @@ opportunities to expand my skill set. I have also had the benefit and pleasure
 of working with and learning from so many incredibly talented developers,
 leaders and world-class experts along the way.
 
-I am currently interested in new opportunities to make a meaningful difference
+I am always interested in new opportunities to make a meaningful difference
 in an expanding business. If you are looking for an experienced software
 developer to lead a team or to solve tough problems, please contact me through
 [email][email] or [LinkedIn][linkedin]. I am eager to talk about possibilities.
