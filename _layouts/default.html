@@ -20,13 +20,13 @@
   <div class="col-sm-4">
     <blockquote>{{ page.quote}}</blockquote>
     <cite>{{ page.cite }}</cite>
+    {% include social.html %}
   </div>
 {% else %}
   {{ content }}
+  {% include social.html %}
 {% endif %}
 </div>
-
-{% include footer.html %}
 
 </body>
 </html>

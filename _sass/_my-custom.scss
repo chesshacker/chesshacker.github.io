@@ -20,8 +20,12 @@ iframe {
   border-radius: 0;
 }
 
-footer.navbar {
-  margin-top: 2em;
+.social {
+  margin-top: 1em;
+  font-size: floor(($font-size-base * 2.5));
+  .nav li a {
+    padding: 5px;
+  }
 }
 
 div.inline {
