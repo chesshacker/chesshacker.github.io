@@ -8,10 +8,15 @@
 # Site settings
 title: Steve Ortiz
 description: >
-  Professional online portfolio for Steve Ortiz
+  Steve Ortiz has over 17 years of experience working as a software developer
+  and team leader.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://steveortiz.github.io" # the base hostname & protocol for your site
-
+keywords: >
+  steveortiz, steve, ortiz, rackspace, navair, software, developer, chess,
+  texas a&m, tamu, pax, pax river, patuxent river, china lake, lexington park,
+  maryland, ridgecrent, california, javascript, aws, node.js, portfolio
+screenshot: https://284f7e12378ae35fe21a-7e78ad4f897ae0179c6a991c235afb37.ssl.cf5.rackcdn.com/images/website-snapshot.jpg
 linkedin_username: stevecancode
 github_username:  steveortiz
 twitter_username: stevecancode
