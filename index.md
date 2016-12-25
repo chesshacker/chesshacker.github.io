@@ -34,10 +34,12 @@ developer to lead a team or to solve tough problems, please contact me through
 
 I hope you find this website to be helpful. This page is only the beginning.
 There is more information about my work at [Rackspace][rackspace],
-[NAVAIR][navair] and beyond.
+[NAVAIR][navair] and beyond. You may also find some of my sample work like the
+[Chess Opening Explorer][chess] to be interesting.
 
 
 [linkedin]:   https://www.linkedin.com/in/{{site.linkedin_username}}
 [email]:      mailto:{{site.email}}
 [rackspace]:  /experience/rackspace/
 [navair]:     /experience/navair/
+[chess]:      /sample-work/chess-openings/

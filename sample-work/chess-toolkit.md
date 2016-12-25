@@ -40,6 +40,9 @@ for black.
   <div class="col-sm-6 text-center stacks">
     <a href="https://github.com/steve-ortiz/chess_toolkit/archive/master.zip" class="btn btn-primary btn-large">Download the Chess Toolkit</a>
   </div>
+  <div class="col-sm-6 text-center stacks">
+    <a href="/sample-work/chess-openings/" class="btn btn-primary btn-large">Try the Chess Toolkit Demo</a>
+  </div>
 </div>
 
 [toolkit]: https://github.com/steve-ortiz/chess_toolkit

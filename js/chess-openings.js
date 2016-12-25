@@ -1,6 +1,6 @@
 ---
 ---
-var HOST = 'http://portfolio.ortizaggies.com';
+var HOST = 'https://sample-chess-api.ortizaggies.com';
 
 var FILES = 'abcdefgh';
 var RANKS = '87654321';
