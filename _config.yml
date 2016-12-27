@@ -11,15 +11,15 @@ description: >
   Steve Ortiz has over 17 years of experience working as a software developer
   and team leader.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://steveortiz.github.io" # the base hostname & protocol for your site
+url: "http://chesshacker.github.io" # the base hostname & protocol for your site
 keywords: >
-  steveortiz, steve, ortiz, rackspace, navair, software, developer, chess,
+  chesshacker, steve, ortiz, rackspace, navair, software, developer, chess,
   texas a&m, tamu, pax, pax river, patuxent river, china lake, lexington park,
   maryland, ridgecrent, california, javascript, aws, node.js, portfolio
 screenshot: https://s3-us-west-2.amazonaws.com/images.ortizaggies.com/website-snapshot.jpg
-linkedin_username: trustycoder
-github_username:  steveortiz
-twitter_username: trustycoder
+linkedin_username: chesshacker
+github_username:  chesshacker
+twitter_username: chesshacker
 email: steve@ortizaggies.com
 
 # Build settings

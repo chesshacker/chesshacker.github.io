@@ -175,5 +175,5 @@ kids learn important life skills from this fun and mentally-stimulating game.
 [dojo]:        https://leanpub.com/codingdojohandbook
 [go]:          https://golang.org
 [alamo]:       http://www.meetup.com/Alamo-Code-Learners/
-[alamotalk]:   https://github.com/steveortiz/python-talk-setuptools-and-web-scraping
+[alamotalk]:   https://github.com/chesshacker/python-talk-setuptools-and-web-scraping
 [castle]:      https://castle-chess.org
