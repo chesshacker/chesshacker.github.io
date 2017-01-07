@@ -1,6 +1,6 @@
 ---
 ---
-var HOST = 'https://sample-chess-api.ortizaggies.com';
+var HOST = 'https://chess-demo.ortizaggies.com';
 
 var FILES = 'abcdefgh';
 var RANKS = '87654321';
