@@ -6,12 +6,12 @@ you love what you are doing, you will be successful."
 cite: "Albert Schweitzer"
 ---
 
-I have over 17 years of experience helping people solve problems through
-software. I enjoy working with teams to figure out the bigger picture and then
-coming up with useful technical solutions. I love that there is a new challenge
-every day and there is always more to learn. When a new idea strikes early in
-the morning, I can hardly wait to get into the office and explore it. By the end
-of most days, I return home energized by my teammates and our achievements.
+I have 20 years of experience helping people solve problems through software. I
+enjoy working with teams to figure out the bigger picture and then coming up
+with useful technical solutions. I love that there is a new challenge every day
+and there is always more to learn. When a new idea strikes early in the morning,
+I can hardly wait to get into the office and explore it. By the end of most
+days, I return home energized by my teammates and our achievements.
 
 My breadth of experience is now my greatest strength. I started my journey
 developing database-intensive business applications and websites. Then I spent a
